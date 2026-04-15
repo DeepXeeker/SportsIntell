@@ -1,0 +1,8 @@
+base: sportsmot.yaml
+
+data:
+  name: SoccerNetTracking
+  root: ./data/SoccerNetTracking
+
+output:
+  run_name: soccernet_full
