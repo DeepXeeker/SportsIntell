@@ -1,8 +1,6 @@
 # SportsIntell
 
-Reference PyTorch implementation of **SportsIntell: Computer Vision-Based Spatio-Temporal Motion Estimation Framework for Non-Linear Multi-Player Tracking in Dynamic Sports Environments**.
-
-> **Important:** this repository is a **faithful reconstruction** of the manuscript, not an official release from the paper authors. The paper leaves several implementation details underspecified; those assumptions are documented in [`docs/reproducibility_notes.md`](docs/reproducibility_notes.md).
+Implementation of **SportsIntell: Computer Vision-Based Spatio-Temporal Motion Estimation Framework for Non-Linear Multi-Player Tracking in Dynamic Sports Environments**.
 
 ## What is implemented
 
