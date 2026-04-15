@@ -126,18 +126,6 @@ python scripts/run_ablations.py --group trajectory_length
 python scripts/run_ablations.py --group beta
 ```
 
-## Notes on reproduction
-
-The manuscript contains internal inconsistencies:
-- the historical trajectory length is stated as **10** frames in the experimental setup but the ablation text reports the best result at **12** frames;
-- the DMAL loss weight `beta` is stated as **0.3** in one section but **0.4** in the ablation text.
-
-This repo defaults to:
-- `history_len = 12`
-- `beta = 0.4`
-
-Both are easy to change in config files.
-
 ## Outputs
 
 Training creates:
