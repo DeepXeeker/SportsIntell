@@ -147,6 +147,4 @@ Training creates:
 - `outputs/<run_name>/predictions/` (optional)
 - `outputs/<run_name>/trackeval/` (if exported)
 
-## Citation
 
-If you use this reconstructed implementation, please cite the original paper and clearly state that your codebase is a reconstructed reference implementation rather than an official release.
