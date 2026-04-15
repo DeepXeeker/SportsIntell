@@ -1,0 +1,5 @@
+base: ../sportsmot.yaml
+loss:
+  beta: 0.3
+output:
+  run_name: ablation_beta_03

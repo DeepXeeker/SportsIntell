@@ -1,0 +1,5 @@
+base: ../sportsmot.yaml
+model:
+  name: vanilla_transformer
+output:
+  run_name: ablation_vanilla_transformer

@@ -1,0 +1,5 @@
+base: ../sportsmot.yaml
+model:
+  history_len: 12
+output:
+  run_name: ablation_p12

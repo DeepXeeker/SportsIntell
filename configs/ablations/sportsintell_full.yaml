@@ -1,0 +1,3 @@
+base: ../sportsmot.yaml
+output:
+  run_name: ablation_sportsintell_full

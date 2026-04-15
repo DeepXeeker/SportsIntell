@@ -1,0 +1,6 @@
+base: ../sportsmot.yaml
+loss:
+  use_dmal: false
+  beta: 0.0
+output:
+  run_name: ablation_without_dmal

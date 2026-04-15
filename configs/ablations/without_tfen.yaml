@@ -1,0 +1,5 @@
+base: ../sportsmot.yaml
+model:
+  use_tfen: false
+output:
+  run_name: ablation_without_tfen

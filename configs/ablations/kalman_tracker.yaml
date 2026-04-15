@@ -1,0 +1,5 @@
+base: ../sportsmot.yaml
+notes:
+  description: "Kalman ablation is evaluated through scripts/infer.py --kalman rather than network training."
+output:
+  run_name: ablation_kalman
